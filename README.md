@@ -5,13 +5,6 @@ This app allows you to explore various sorting algorithms with colorful animated
 
 ---
 
-## 📸 Preview
-
-<!-- Add your GIF/screenshot here -->
-*(Coming soon)*
-
----
-
 ## 🛠 Features
 
 - 🎨 Beautiful UI with modern color schemes and rounded elements
@@ -22,7 +15,6 @@ This app allows you to explore various sorting algorithms with colorful animated
   - Selection Sort
   - Merge Sort
   - Quick Sort
-- 🎛 Speed Control Slider
 - 🎚 Adjustable Array Size
 - 🔁 Restart and Shuffle options
 - ⎯ Start/Stop toggle during sorting
@@ -69,7 +61,7 @@ lib/
 ---
 
 ## 🌟 Future Improvements
-- Add more algorithms (Heap Sort, Radix Sort, etc.)
+- Add more algorithms (Heap Sort, etc.)
 - Add theme switching (light/dark)
 - Export animations as GIF
 - Persistent settings
@@ -79,7 +71,6 @@ lib/
 ## 👥 Author
 
 **Abdullah**  
-[LinkedIn](https://www.linkedin.com/in/yourprofile) • [GitHub](https://github.com/yourusername)
 
 ---
 
